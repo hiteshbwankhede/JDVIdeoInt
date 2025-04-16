@@ -16,7 +16,7 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 print(GROQ_API_KEY)
 
 # Streamlit UI
-st.title("📄 JD to Interview Questions Generator (Groq - LLaMA 2 70B)")
+st.title("Reliance Jio - JD based Video Interview Questions Generator")
 st.markdown("Paste the URL of a Jio Careers JD page below:")
 
 # Input box for JD URL
